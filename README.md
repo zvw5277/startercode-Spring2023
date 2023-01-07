@@ -1,7 +1,7 @@
 # Read these instructions carefully.
 
 
-If you don't, you are likely to mess up the github repository and waste a lot of time from a lot of people (including yourself).
+**If you don't, you are likely to mess up the github repository and waste a lot of time from a lot of people (including yourself). If you skip reading this and just ask questions on stackoverflow, you will get the wrong answer and will mess up your repository.**
 
 **Do Not clone the starter code repository, that is not what you want to do**
 
