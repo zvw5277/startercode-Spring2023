@@ -18,7 +18,7 @@ def q4(myarray):
     you cannot change how the array is iterated 
     and you cannot use any list operations on myarray """
 
-    for mystring in mystringarray:
+    for mynum in mystringarray:
         pass
 
 
