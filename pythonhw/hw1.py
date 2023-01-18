@@ -1,7 +1,11 @@
 # use spaces. Do NOT use tabs.
 
 def q1(mystring):
-    pass
+    parts = mystring.split('\t')
+    tuple1 = parts[1]
+    tuple2 = parts[2]
+    tuples = (tuple1, tuple2)
+    return (tuples)
 
 
 def q2(mystring):
